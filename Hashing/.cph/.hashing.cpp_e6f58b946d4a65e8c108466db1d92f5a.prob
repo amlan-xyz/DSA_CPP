@@ -1,0 +1,1 @@
+{"name":"Local: hashing","url":"d:\\DSA_CPP\\Hashing\\hashing.cpp","tests":[{"id":1710260226570,"input":"5\n1 3 1 2 1 \n3\n1\n3\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA_CPP\\Hashing\\hashing.cpp","group":"local","local":true}
